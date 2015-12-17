@@ -1,0 +1,28 @@
+#carousel {
+	width: 100%;
+	max-width: 1440px;
+	overflow: hidden;
+}
+figure {
+	position: relative;
+	width: 300%;
+	margin: 0;
+	padding: 0;
+	font-size: 0;
+	display: block;
+	-webkit-animation: 16.5s slidy infinite;
+}
+img {
+	width: 11%;
+	height: auto;
+	display: inline-block;
+}
+@keyframes slidy {
+	0% {left: 0%;}
+	30% {left: 0%;}
+	33% {left: -100%}
+	63% {left: -100%}
+	66% {left: -200%;}
+	96% {left:-200%;}
+	100% {left: 0%;}
+}

@@ -1,0 +1,27 @@
+#projects {
+	height: 100%
+}
+.slide {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 0;
+	width: 100%;
+	-webkit-transition: height 0.9s ease-in-out;
+}
+.slide: nth-child(1) {z-index:10}
+.slide: nth-child(2) {z-index:9}
+.slide: nth-child(3) {z-index:8}
+
+.active-slide {
+	height: 100%;
+}
+#project-0 {
+	background-color: blue;
+}
+#project-1 {
+	background-color: red;
+}
+#project-2 {
+	background-color: green;
+}

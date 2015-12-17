@@ -1,0 +1,211 @@
+.painting {
+	width: 400px;
+	height: 350px;
+	background: black;
+}
+.columnleft {
+	height: 340px;
+	width: 205px;
+	background: white;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+		.row1 {
+			height: 120px;
+			width: 205px;
+			margin-top: -5px;
+		}
+			.canvas1 {
+				border: 5px solid black;
+				height: 120px;
+				width: 13px;
+				background: white;
+				margin-left: -5px;
+				float: left;
+			}
+			.canvas2 {
+				border: 5px solid black;
+				height: 120px;
+				width: 107px;
+				background: white;
+				margin-left: -5px;
+				margin-right: -5px;
+				float: left;
+			}
+				.box1{
+					border: 5px solid black;
+					height: 85px;
+					width: 107px;
+					background: white;
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.yellow1 {
+					height: 30px;
+					width: 107px;
+					background: rgb(255,230,0);
+					float: left;
+				}
+			.canvas3 {
+				border: 5px solid black;
+				height: 120px;
+				width: 75px;
+				background: white;
+				float: right;
+				margin-right: -5px;
+			}
+				.box2{
+					border: 5px solid black;
+					height: 85px;
+					width: 75px;
+					background: white;
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.yellow2 {
+					height: 30px;
+					width: 75px;
+					background: rgb(255,230,0);
+					float: left;
+				}
+		.row2 {
+			height: 130px;
+			width: 205px;
+			margin-top: -5px;
+		}
+			.canvas4 {
+				border: 5px solid black;
+				height: 130px;
+				width: 13px;
+				background: white;
+				margin-left: -5px;
+				margin-top: -5px;
+				float: left;
+			}
+			.canvas5 {
+				border: 5px solid black;
+				height: 130px;
+				width: 97px;
+				background: white;
+				margin-left: -5px;
+				margin-right: -5px;
+				margin-top: -5px;
+				float: left;
+			}
+				.box3{
+					border: 5px solid black;
+					height: 35px;
+					width: 97px;
+					background: white;
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.red1 {
+					height: 90px;
+					width: 97px;
+					background: rgb(180,0,0);
+					float: left;
+				}
+			.canvas6 {
+				border: 5px solid black;
+				height: 130px;
+				width: 85px;
+				background: white;
+				float: right;
+				margin-right: -5px;
+				margin-top: -5px;
+			}
+				.box4{
+					border: 5px solid black;
+					height: 35px;
+					width: 85px;
+					background: white;
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.blue1 {
+					height: 90px;
+					width: 85px;
+					background: rgb(0,0,180);
+					float: left;
+				}
+.columnright {
+	height: 340px;
+	width: 180px;
+	background: white;
+	float: right;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+	.row4 {
+			height: 250px;
+			width: 180px;
+			margin-top: -5px;
+		}
+			.canvas8 {
+				border: 5px solid black;
+				height: 250px;
+				width: 109px;
+				background: white;
+				margin-left: -5px;
+				margin-right: -5px;
+				float: left;
+			}
+				.box5{
+					border: 5px solid black;
+					height: 24px;
+					width: 109px;
+					background: white;
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.box6 {
+					height: 226px;
+					width: 109px;
+					background: white;
+					float: left;
+				}
+			.canvas9 {
+				border: 5px solid black;
+				height: 250px;
+				width: 66px;
+				background: white;
+				float: right;
+				margin-right: -5px;
+			}
+				.red2{
+					border: 5px solid black;
+					height: 24px;
+					width: 66px;
+					background: rgb(180,0,0);
+					margin-left: -5px;
+					margin-right: -5px;
+					margin-top: -5px;
+					float: left;
+				}
+				.box7 {
+					height: 226px;
+					width: 66px;
+					background: white;
+					float: left;
+				}
+	.row5 {
+			height: 100px;
+			width: 180px;
+			margin-top: -5px;
+			background: rgb(0,0,180);
+	}
+
+
+

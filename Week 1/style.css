@@ -1,0 +1,24 @@
+.canvas {
+	border: 4px solid black;
+	height: 80%;
+	width: 80%;
+	margin: 10%;
+}
+
+body {
+	margin: 0px;
+}
+
+#first {
+	color:red;
+}
+
+.second {
+	color:green;
+}
+.third {
+	color:#CCC;
+}
+.fourth .child {
+	color:rgb(255,0,0);
+}

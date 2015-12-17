@@ -1,0 +1,230 @@
+.header {
+	width: 100%;
+	height: 768px;
+	background-image: url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v3/hand-tray.png), url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v3/hero-V2.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+.hero-image {
+	position: relative;
+	width: 70%;
+	padding-top: 70px;
+	align-self: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header p {
+	text-align: center;
+	display: block;
+	color: white;
+	font-family: 'csb';
+	font-size: 25px;
+	line-height: 1.4em;
+	font-weight: 200;
+}
+.header button {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #c86153;
+    color: #f7f7f7;
+    padding: 15px 30px;
+    font-size: 12px;
+    line-height: 22.652px;
+    font-weight: bold;
+    font-family: 'Arial', 'sans-serif';
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 0;
+}
+.HIW {
+	width: 100%;
+	height: 768px;
+	display: inline-block;
+	vertical-align: top;
+	align-items: center;
+    position: relative;
+    background-color: #c86153;
+    background-size: cover;
+    color: #ffbf62;
+}
+.HIW h4 {
+	font-family: 'csb';
+	font-size: 16px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-align: center;
+	display: block;
+	font-weight: normal;
+	margin-top: 100px;
+}
+.HIW p {
+	text-align: center;
+	display: block;
+	font-family: 'csb';
+	font-size: 42px;
+	line-height: 1.4em;
+	font-weight: normal;
+	margin-top: 200px;
+}
+.cities {
+	width: 70%;
+	height: 20vh;
+	position: relative;
+	margin: auto;
+	font-size: 13px;
+	font-family: sans-serif;
+	letter-spacing: 5px;
+	margin-top: 200px;
+	line-height: 21px;
+}
+.cities a {
+	margin-top: 2px;
+	color: #ffbf62;
+	text-decoration: none;
+}
+.cities img {
+	width: 120px;
+	height: 120px;
+}
+.Manhattan-mini {
+	width: 20%;
+	height: 20vh;
+	position: absolute;
+	float: left;
+	text-align: center;
+}
+.Brooklyn-mini {
+	width: 20%;
+	height: 20vh;
+	position: absolute;
+	float: left;
+	margin-left: 20%;
+	text-align: center;
+}
+.San-Francisco-mini {
+	width: 20%;
+	height: 20vh;
+	position: absolute;
+	float: left;
+	margin-left: 40%;
+	text-align: center;	
+}
+.Los-Angeles-mini {
+	width: 20%;
+	height: 20vh;
+	position: absolute;
+	float: left;
+	margin-left: 60%;
+	text-align: center;	
+}
+.Concierge-mini {
+	width: 20%;
+	height: 20vh;
+	position: absolute;
+	float: left;
+	margin-left: 80%;
+	text-align: center;	
+}
+.manhattan {
+	width: 100%;
+	height: 768px;
+	background-color: #FFC776;
+	background-image: url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v2/nyc/manhattan-left.png), url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v2/nyc/manhattan-right-3.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+.location-image {
+	position: relative;
+	width: 10%;
+	height: 120px;
+	padding-top: 70px;
+	align-self: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.location h1 {
+	text-align: center;
+	display: block;
+	color: #c86153;
+	font-size: 80px;
+	line-height: 1.4em;
+	font-weight: 200;
+}
+.location h2 {
+	text-align: center;
+	display: block;
+	color: #c86153;
+	font-family: 'Helvetica';
+	font-size: 14px;
+	text-transform: capitalize;
+	letter-spacing: 5px;
+	line-height: 1.4em;
+	font-weight: 200;
+}
+.location {
+	text-align: center;
+	display: block;
+	color: #c86153;
+	font-family: 'csb';
+	font-size: 25px;
+	line-height: 1.4em;
+	font-weight: normal;
+}
+.location button {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #c86153;
+    color: #f7f7f7;
+    padding: 15px 30px;
+    font-size: 12px;
+    line-height: 22.652px;
+    font-weight: bold;
+    font-family: 'Arial', 'sans-serif';
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 0;
+}
+.brooklyn {
+	width: 100%;
+	height: 768px;
+	background-color: #FFC776;
+	background-image: url(https://everlane.imgix.net/static/content-page-images/room-service/desktop/v3/bk-left-1-V2.png), url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v3/bk-right-V2.png?dpr=1&q=65);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+.sanfran {
+	width: 100%;
+	height: 768px;
+	background-color: #FFC776;
+	background-image: url(https://everlane.imgix.net/static/content-page-images/room-service/desktop/v3/sf-1-V3.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+.losangeles {
+	width: 100%;
+	height: 768px;
+	background-color: #FFC776;
+	background-image: url(https://everlane.imgix.net/static/content-page-images/room-service/desktop/v3/la-left-1-V2.png), url(https://everlane-2.imgix.net/static/content-page-images/room-service/desktop/v3/la-right-V2.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+.concierge {
+	width: 100%;
+	height: 768px;
+	background-color: #FFC776;
+	background-image: url(https://everlane.imgix.net/static/content-page-images/room-service/desktop/v3/concierge-left-V2.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}

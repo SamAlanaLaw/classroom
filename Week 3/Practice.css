@@ -1,0 +1,22 @@
+div {
+	border: 5px solid black;
+	-webkit-box-sizing: border-box;
+	height: 100px;
+	width: 200px; 
+}
+.parent > div:first-child {
+	background-color: blue;
+}
+.parent > div:nth-child(2) {
+	background-color: green;
+}
+.parent > div:last-child {
+	background-color: purple;
+}
+.parent {
+	background-color: white;
+	height: 400px;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}

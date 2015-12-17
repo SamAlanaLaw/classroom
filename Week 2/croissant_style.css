@@ -1,0 +1,21 @@
+.div1 {
+	width: 300px;
+	height: 200px;
+	border: 1px solid purple;
+}
+
+.div2 {
+	display: inline-block;
+	background-color: blue;
+	width: 50%;
+	height: 100%;
+}
+
+.div3 {
+	display: inline-block;
+	background-color: blue;
+	width: 50%;
+	height: 100%;
+}
+
+img {display: none;}
